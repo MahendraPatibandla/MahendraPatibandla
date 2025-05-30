@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahendra Patibandla</h1>
-<h3 align="center">A passionate full Stack developer and Data Science from India</h3>
+<h3 align="center">A passionate Data Analytics and Data Science from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendrapatibandla&label=Profile%20views&color=0e75b6&style=flat" alt="mahendrapatibandla" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Frontend Technology**
+- 🌱 I’m currently learning **Artificial Intelligence, Data Analysis, Data Science**
 
-- 📫 How to reach me **mahendrapatibandla4518@gmail.com**
+- 📫 How to reach me **mahendrapatibandla7@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1NmsDd8Q6Uqmqtx1m7iHdJT3X9aXBfJN4/view?usp=sharing](https://drive.google.com/file/d/1NmsDd8Q6Uqmqtx1m7iHdJT3X9aXBfJN4/view?usp=sharing)
 
