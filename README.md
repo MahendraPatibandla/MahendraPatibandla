@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **mahendrapatibandla7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sa_kptY5ycqHCIoC41ZfdZlCYQxsMiiw/view?usp=sharing](https://drive.google.com/file/d/1sa_kptY5ycqHCIoC41ZfdZlCYQxsMiiw/view?usp=sharing)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wq5ze6xalOyGIrLNwSClmVsx6Jc0vRiQ/view?usp=sharing](https://drive.google.com/file/d/1wq5ze6xalOyGIrLNwSClmVsx6Jc0vRiQ/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
